@@ -18,7 +18,7 @@ HTML
 
 CSS
 
-*I will be adding some JavaScript, so make sure to revisit my portfolio for updates!*
+*I will be adding some elements that implement JavaScript language, so make sure to revisit my portfolio for updates!*
 
 ## Usage
 Feel free to use this portfolio website as a template for your own portfolio or as a reference for your own projects. You can replace the content with your own information and customize the design to fit your style.
