@@ -10,6 +10,13 @@
     background: #E0E0E0;
 }
 
+.game-button {
+    text-decoration: none; 
+    color: #E0E0E0; 
+    padding: 10px 20px;
+    background-color: #252B48; 
+}
+
 .header {
     font-family: 'Crete Round', serif;
 }
