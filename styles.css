@@ -1,35 +1,63 @@
+
+
 .gradient-background {
     background: linear-gradient(300deg, #445069, #252B48, black);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
 }
 
-.yellow-background {
-    background: #F7E987;
-}
-
-.green-background {
-    background: #5B9A8B;
-}
-
-.gray-background {
-    background: #445069;
+.light-background {
+    background: #E0E0E0;
 }
 
 .header {
     font-family: 'Crete Round', serif;
 }
 
-body {
-    font-family: 'Lato', sans-serif;
+.header-2 {
+    font-family: 'Crete Round', serif;
+    font-size: 3rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
 }
 
-.resume {
-    position: fixed;
-    top: 1rem;
-    right: 5rem;
-    text-align: center;
-    color:#5B9A8B;
+.header-3 {
+    padding-left: 2rem;
+    color: #252B48;
+}
+
+.projectButton {
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+}
+
+.projectDescription {
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    color: #252B48;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.game {
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+}
+
+.game img {
+    width: 55%; 
+    border-radius: 10px; 
+    margin-left: 2rem;
+}
+
+.footer-links {
+    color: #E0E0E0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
 }
 
 .social {
@@ -37,12 +65,24 @@ body {
     display: block;
 }
 
-.about-me {
-    padding-top: 10rem;
-    padding-bottom: 10rem;
-    width: 50%;
-    font-size: 1.25rem;
-    color:#252B48;
+@media (max-width: 1199px) {
+    .about-me {
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+        width: 75%;
+        font-size: 1rem;
+        color:#252B48;
+    }
+}
+
+@media (min-width: 1200px) {
+    .about-me {
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+        width: 50%;
+        font-size: 1.3rem;
+        color:#252B48;
+    }
 }
 
 .card {
