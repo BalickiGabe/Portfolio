@@ -15,7 +15,9 @@ framework: Bootstrap
 ### I developed this website using the following technologies:
 
 HTML
+
 CSS
+
 *I will be adding some JavaScript, so make sure to revisit my portfolio for updates!*
 
 ## Usage
