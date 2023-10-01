@@ -1,5 +1,5 @@
 # Gabe's Portfolio
-Welcome to my portfolio website repository! This is a simple website I created to showcase my skills and projects as a junior software developer. You can view the live website at [stay tuned for deployment]
+Welcome to my portfolio website repository! This is a simple website I created to showcase my skills and projects as a junior software developer. You can view the live website at (https://balickigabe.github.io/Portfolio/)
 
 ## Introduction
 
