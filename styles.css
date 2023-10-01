@@ -1,0 +1,61 @@
+.gradient-background {
+    background: linear-gradient(300deg, #445069, #252B48, black);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.yellow-background {
+    background: #F7E987;
+}
+
+.green-background {
+    background: #5B9A8B;
+}
+
+.gray-background {
+    background: #445069;
+}
+
+.header {
+    font-family: 'Crete Round', serif;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.resume {
+    position: fixed;
+    top: 1rem;
+    right: 5rem;
+    text-align: center;
+    color:#5B9A8B;
+}
+
+.social {
+    padding: 50px 0 20px;
+    display: block;
+}
+
+.about-me {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    width: 50%;
+    font-size: 1.25rem;
+    color:#252B48;
+}
+
+.card {
+    border-radius: 5%;
+    width: 20rem;
+    height: 26rem;
+    padding: 2rem;
+    margin: 1rem;
+    color:#252B48;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
