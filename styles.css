@@ -18,22 +18,14 @@
     font-family: 'Crete Round', serif;
     font-size: 3rem;
     padding-top: 2rem;
-    padding-left: 2rem;
     padding-bottom: 2rem;
 }
 
-.header-3 {
-    padding-left: 2rem;
-    color: #252B48;
-}
-
 .projectButton {
-    padding-left: 2rem;
     padding-bottom: 1rem;
 }
 
 .projectDescription {
-    padding-left: 2rem;
     padding-bottom: 1rem;
     color: #252B48;
     font-weight: bold;
@@ -49,7 +41,6 @@
 .game img {
     width: 55%; 
     border-radius: 10px; 
-    margin-left: 2rem;
 }
 
 .footer-links {
