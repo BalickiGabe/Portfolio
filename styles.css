@@ -1,99 +1,97 @@
-
-
 .gradient-background {
-    background: linear-gradient(300deg, #445069, #252B48, black);
-    background-size: 180% 180%;
-    animation: gradient-animation 18s ease infinite;
+  background: linear-gradient(300deg, #445069, #252b48, black);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
 }
 
 .light-background {
-    background: #E0E0E0;
+  background: #e0e0e0;
 }
 
 .game-button {
-    text-decoration: none; 
-    color: #E0E0E0; 
-    padding: 10px 20px;
-    background-color: #252B48; 
+  text-decoration: none;
+  color: #e0e0e0;
+  padding: 10px 20px;
+  background-color: #252b48;
 }
 
 .header {
-    font-family: 'Crete Round', serif;
+  font-family: "Crete Round", sans-serif;
 }
 
 .header-2 {
-    font-family: 'Crete Round', serif;
-    font-size: 3rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+  font-family: "Crete Round", sans-serif;
+  font-size: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .projectButton {
-    padding-bottom: 1rem;
+  padding-bottom: 1rem;
 }
 
 .projectDescription {
-    padding-bottom: 1rem;
-    color: #252B48;
-    font-weight: bold;
-    font-size: 1rem;
+  padding-bottom: 1rem;
+  color: #252b48;
+  font-weight: bold;
+  font-size: 1rem;
 }
 
 .game {
-      align-items: center;
-      height: 100vh;
-      margin: 0;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
 }
 
 .game img {
-    width: 55%; 
-    border-radius: 10px; 
+  width: 55%;
+  border-radius: 10px;
 }
 
 .footer-links {
-    color: #E0E0E0;
+  color: #e0e0e0;
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 .social {
-    padding: 50px 0 20px;
-    display: block;
+  padding: 50px 0 20px;
+  display: block;
 }
 
 @media (max-width: 1199px) {
-    .about-me {
-        padding-top: 10rem;
-        padding-bottom: 10rem;
-        width: 75%;
-        font-size: 1rem;
-        color:#252B48;
-    }
+  .about-me {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    width: 75%;
+    font-size: 1rem;
+    color: #252b48;
+  }
 }
 
 @media (min-width: 1200px) {
-    .about-me {
-        padding-top: 10rem;
-        padding-bottom: 10rem;
-        width: 50%;
-        font-size: 1.3rem;
-        color:#252B48;
-    }
+  .about-me {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    width: 50%;
+    font-size: 1.3rem;
+    color: #252b48;
+  }
 }
 
 .card {
-    border-radius: 5%;
-    width: 20rem;
-    height: 26rem;
-    padding: 2rem;
-    margin: 1rem;
-    color:#252B48;
+  border-radius: 5%;
+  width: 20rem;
+  height: 26rem;
+  padding: 2rem;
+  margin: 1rem;
+  color: #252b48;
 }
 
 .skills {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
